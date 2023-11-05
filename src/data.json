@@ -1,0 +1,433 @@
+{
+  "headerData": {
+    "logoDark": "/images/logo.svg",
+    "logoLight": "/images/logo-light.svg"
+  },
+  "heroData": {
+    "title": "<h2>İzle<br><br> Düşün</h2><br>Harekete Geç!",
+    "subTitle": "",
+    "ImgLink": "/images/home-banner.png",
+    "phone": "+90 506 117 58 07",
+    "email": "info@zenmedya.com",
+    "btnText": "Her zaman iş başındayız",
+    "socialData": [
+      {
+        "link": "",
+        "icon": "dribbble"
+      },
+      {
+        "link": "",
+        "icon": "instagram"
+      },
+      {
+        "link": "",
+        "icon": "facebook"
+      }
+    ]
+  },
+  "aboutData": {
+    "aboutLeft": {
+      "ImgLink": "/images/about-banner.jpg",
+      "name": "ZEN MEDYA",
+      "designation": "Reklamdaki Öncünüz. <span>Avrupa </span> TURKIYE",
+      "resumeCv": "/Resume.pdf"
+    },
+    "aboutRight": {
+      "aboutText": "Zen Medya olarak, reklamcılık dünyasına adanmış bir profesyonellikle ve son 10 yıl boyunca bu alanda birçok farklı platformda deneyim kazandık. Reklam sektörünün dönüşümünü yakından takip etmek ve bu değişime ayak uydurmak bizim için büyük bir tutku haline geldi.",
+      "contactInfo": [
+        {
+          "icon": "phone",
+          "data": "+90 506 117 58 07"
+        },
+        {
+          "icon": "person",
+          "data": ""
+        },
+        {
+          "icon": "envelope",
+          "data": "info@zenmedya.com"
+        },
+        {
+          "icon": "map",
+          "data": "İstanbul / Turkey"
+        }
+      ],
+      "archivement": [
+        {
+          "number": "10+",
+          "meta": "Yıllık <br /> tecrube...",
+          "text": "Televizyon reklamcılığı, yıllardır markaların mesajlarını geniş kitlelere iletmelerinin anahtarı olmuştur. Bu süre zarfında, birçok farklı sektörde sayısız TV spot ve alt bant reklam kampanyası yürüttük. Yaratıcı yaklaşımlarla izleyicilerin dikkatini çekme, duygusal bağ kurma ve markaların hedeflerini başarıyla iletmek için çeşitli projelere imza attık.         ."
+        },
+        {
+          "number": "5+",
+          "meta": "İnternet <br> Reklamcılığı...",
+          "text": "İnternet ve TV reklamcılığını birleştirerek ileriye yönelik projelerde kullanabileceğiniz reklam kampanyaları ile uzun vadeli dönüş alabileceğiniz projeler geliştirdik."
+        }
+      ],
+      "note": "“Memnuniyetiniz öncelikli hedefimiz.”"
+    }
+  },
+  "experienceData": {
+    "text": "Firmamız, Dijital Reklamcılık, Maliyet Başına Tıklama (CPC), Maliyet Başına Bin Gösterim (CPM), Maliyet Başına Görüntüleme (CPV), Geleneksel Medya Planlama (TV, açıkhava, radyo, dergi, gazete), Dijital Medya Planlama, Medya Üretimi, Marka Pozisyonlandırma, İçerik Üretimi, Dijital Pazarlama Danışmanlığı ve Dijital Reklam Ajansı alanlarında uzmanlaşmıştır.",
+    "resumeCv": "/Resume.pdf",
+    "experience": [
+      {
+        "start": "2010",
+        "end": "İnternet Reklamcılığı",
+        "title": "Google SEO, Google Ads, Instagram ",
+        "subtitle": "Uzmanlıklarımız"
+      },
+      {
+        "start": "2017",
+        "end": "2018",
+        "title": "TV, açıkhava, radyo, dergi, gazete",
+        "subtitle": "TV Reklamcılığı"
+      },
+      {
+        "start": "2022",
+        "end": "2023",
+        "title": "Hem dijital medya da hemde Geleneksel medya da kullanabilecek içerikler üretmek",
+        "subtitle": "Hedefimiz"
+      }
+    ]
+  },
+  "serviceData": [
+    {
+      "title": "TV REKLAMCILIĞI",
+      "heading": "TV reklamcılığı, ürün ve hizmetlerin geniş kitlelere ulaşmasını sağlayan güçlü",
+      "triger": "One",
+      "imgLink": "/images/services-1.png",
+      "text": "TV reklamcılığı, ürün ve hizmetlerin geniş kitlelere ulaşmasını sağlayan güçlü bir pazarlama aracıdır. Televizyon reklamları, görsel ve işitsel çekicilikleri sayesinde tüketicilerin dikkatini çekiyor ve marka bilinirliğini artırıyor. Aynı zamanda duygusal bağ kurma ve bilgi iletimi konularında etkili bir platform sunuyor. Herhangi bir sektörde, hedef kitleye ulaşmanın ve markanızı tanıtmanın anahtarlarından biri olan TV reklamları, pazarlama stratejilerinde vazgeçilmez bir rol oynuyor."
+    },
+    {
+      "title": "DİJİTAL REKLAMCILIK",
+      "heading": "Dijital reklamcılık, geleneksel pazarlama yöntemlerinin dijital platformlara taşındığı",
+      "triger": "Two",
+      "imgLink": "/images/services-2.png",
+      "text": "Dijital reklamcılık, geleneksel pazarlama yöntemlerinin dijital platformlara taşındığı ve markaların hedef kitlelerine etkili bir şekilde ulaşma amacı güttüğü dinamik bir alanı ifade eder. Bu disiplin, web siteleri, sosyal medya, arama motorları, e-posta kampanyaları ve daha birçok dijital kanal aracılığıyla markaların ürün ve hizmetlerini tanıtmalarını, izleyicilerin ilgisini çekmelerini ve dönüşümler elde etmelerini sağlar. Dijital reklamcılık, veri analizi, hedef kitle segmentasyonu, içerik pazarlama ve optimizasyon gibi önemli bileşenleri içerirken, sürekli değişen dijital ekosistemde rekabet avantajı elde etmek için markaların hızla uyum sağlamalarını gerektirir."
+    },
+    {
+      "title": "WEB SAYFASI TASARIMI",
+      "heading": "Web sayfası tasarımı, bir web sitesinin görünümü, kullanılabilirliği ve kullanıcı deneyimini",
+      "triger": "Three",
+      "imgLink": "/images/services-3.png",
+      "text": "Web sayfası tasarımı, bir web sitesinin görünümü, kullanılabilirliği ve kullanıcı deneyimini şekillendiren kritik bir süreçtir. Başarılı bir web tasarımı, estetik açıdan çekici olmanın ötesinde, kolay gezinme, hızlı yükleme süreleri ve bilgiye kolay erişim gibi faktörleri dikkate almalıdır. Aynı zamanda, mobil cihazlar ve farklı tarayıcılar gibi farklı platformlarda sorunsuz çalışmalıdır. Kullanıcıların istedikleri bilgilere hızlı ve rahat bir şekilde ulaşmalarını sağlayan etkileyici bir web tasarımı, bir web sitesinin başarısının temelini oluşturur ve marka kimliği ile kullanıcı etkileşimini güçlendirir."
+    },
+    {
+      "title": "ÖZEL HİZMETLER",
+      "heading": "Reklamcılık alanında özel taleplerinizi karşılamak, bizim için bir öncelik ve ayrıcalıktır.",
+      "triger": "Four",
+      "imgLink": "/images/services-4.png",
+      "text": "Reklamcılık alanında özel taleplerinizi karşılamak, bizim için bir öncelik ve ayrıcalıktır. Her müşteri benzersizdir ve her markanın ihtiyaçları farklıdır. Bu nedenle, size özel bir yaklaşım benimsemek ve reklam stratejilerinizi özelleştirmek, başarılı sonuçlar elde etmenin anahtarıdır. Sizlerle yakından işbirliği yaparak, markanızın hedeflerini anlamak, özel taleplerinizi dikkate almak ve en etkili reklam kampanyalarını oluşturmak için gereken esneklik ve yaratıcılığı sunarız. Hangi platformları kullanacağımız, hangi hedef kitlelere odaklanacağımız ve hangi metrikleri izleyeceğimiz gibi konuları belirlemek için sizi dinleriz. Her adımı, istediğiniz sonuca ulaşmak için dikkatle planlar ve uygularız. Müşterilerimizin memnuniyeti ve başarısı bizim için en büyük önceliktir ve bu nedenle özel taleplerinizi karşılamak için elimizden gelenin en iyisini yaparız."
+    }
+  ],
+  "portfolioData": [
+    {
+      "ImgLink": "/images/services-1.png",
+      "subTitle": "TV REKLAMCILIĞI",
+      "title": "",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/services-2.png",
+      "subTitle": "DİJİTAL REKLAMCILIK",
+      "title": "",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/services-3.png",
+      "subTitle": "WEB SAYFASI TASARIMI",
+      "title": "",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/services-4.png",
+      "subTitle": "ÖZEL HİZMETLER",
+      "title": "",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "blogData": [
+   {
+      "ImgLink": "/images/blog-1.png",
+      "date": "",
+      "delay": "900",
+      "title": "",
+      "paragraphList": [
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-4.png",
+      "date": "",
+      "delay": "900",
+      "title": "",
+      "paragraphList": [
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-3.png",
+      "date": "",
+      "delay": "800",
+      "title": "",
+      "paragraphList": [
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-2.png",
+      "date": "",
+      "delay": "1000",
+      "title": "",
+      "paragraphList": [
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "sliderData": {
+    "testimonialInfo": {
+      "useFor": "testimonial",
+      "settings": {
+        "infinite": true,
+        "speed": 1500,
+        "autoplay": true,
+        "autoplaySpeed": 5000,
+        "slidesToShow": 2,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "dots": true,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 1,
+              "autoplay": true
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "/images/avatar-1.jpg",
+          "name": "Kanal D",
+          "designation": "Yargı",
+          "text": "Yargı - Kanal D nin vazgeçilemeyen dizisi her hafta izlenme rekorları kırmakta. "
+        },
+        {
+          "imgLink": "/images/avatar-2.jpg",
+          "name": "FOX TV",
+          "designation": "Kirli Sepeti",
+          "text": "Kirli Sepeti, Türkiye'de 24 Eylül 2023 tarihinde yayımlanan bir televizyon dizisidir. Dizi, Medyapım tarafından üretilmiştir ve dram türünde yer almaktadır."
+        },
+        {
+          "imgLink": "/images/avatar-3.jpg",
+          "name": "TV 8",
+          "designation": "Master Chef Türkiye",
+          "text": "MasterChef Türkiye, Türkiye'de yayımlanan İngiltere kökenli bir yemek yarışması televizyon programının yerel uyarlamasıdır. İlk kez 2011 yılında Show TV'de bir sezon boyunca izleyiciyle buluştu."
+        },
+        {
+          "imgLink": "/images/avatar-4.jpg",
+          "name": "CNN TURK",
+          "designation": "Tarafsız Bölge",
+          "text": "Ahmet Hakan'ın yönettiği Tarafsız Bölge programı, günün en önemli gelişmeleri ve en çok tartışılan konuları ele alıyor. Program, tarafsız bir bakış açısıyla gündemin sıcak başlıklarını inceliyor."
+        }
+      ]
+    },
+    "brandInfo": {
+      "useFor": "brand",
+      "settings": {
+        "infinite": true,
+        "speed": 1000,
+        "autoplay": true,
+        "autoplaySpeed": 3000,
+        "slidesToShow": 5,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 4
+            }
+          },
+          {
+            "breakpoint": 767,
+            "settings": {
+              "slidesToShow": 3
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "/images/brand-1.png"
+        },
+        {
+          "imgLink": "/images/brand-2.png"
+        },
+        {
+          "imgLink": "/images/brand-3.png"
+        },
+        {
+          "imgLink": "/images/brand-4.png"
+        },
+        {
+          "imgLink": "/images/brand-5.png"
+        },
+        {
+          "imgLink": "/images/brand-6.png"
+        },
+        {
+          "imgLink": "/images/brand-7.png"
+        },
+        {
+          "imgLink": "/images/brand-8.png"
+        }
+      ]
+    }
+  },
+  "contactData": {
+    "contactInfo": [
+      {
+        "icon": "chat-left-dots-fill",
+        "title": "İletişim",
+        "text": "+90 (506) 117-5807 /",
+        "emailLink": "info@zenmedya.com"
+      },
+      {
+        "icon": "compass",
+        "title": "Adres",
+        "text": "Levent Plaza Center . Levent, Büyükdere Cd. No:162, 34330 Beşiktaş/Şişli/İstanbul"
+      },
+      {
+        "icon": "Telefon",
+        "title": "Çalışma Saatleri",
+        "text": "Pazartesi-Cuma  09:00 - 17.00"
+      }
+    ],
+    "contactForm": {
+      "title": "Mesaj formunu doldurarak iletişime geçebilirsiniz.",
+      "text": "Size bir telefon kadar yakınız."
+    }
+  },
+  "footerData": {
+    "ImgLink": "/images/about-banner.jpg",
+    "name": ""
+  },
+  "socialData": [
+    {
+      "icon": "twitter",
+      "link": ""
+    },
+    {
+      "icon": "instagram",
+      "link": ""
+    },
+    {
+      "icon": "facebook",
+      "link": ""
+    },
+    {
+      "icon": "pinterest",
+      "link": ""
+    }
+  ]
+}
