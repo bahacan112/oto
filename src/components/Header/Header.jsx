@@ -4,7 +4,7 @@ import { Icon } from '@iconify/react';
 import { Link } from 'react-router-dom';
 import { Link as ScrollLink } from 'react-scroll';
 import { socialData } from '../../data.json';
-
+const whatsappIconUrl = '/public/images/whatsapp-icon.png';
 const Header = ({ data }) => {
   const { logoDark, logoLight } = data;
 
@@ -116,6 +116,18 @@ const Header = ({ data }) => {
               İletişim
             </ScrollLink>
           </li>
+          <br></br><br></br>
+          <li>
+    <a
+      href="https://wa.me/905061175807"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+    <img width="30px" heighth="30px" src={whatsappIconUrl} alt="WhatsApp" />   WhatsApp Mesaj
+
+      
+    </a>
+  </li>
         </ul>
         <ul className="nav social-link">
           {socialData.map((element, index) => (
