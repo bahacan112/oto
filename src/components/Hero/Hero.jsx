@@ -48,7 +48,7 @@ const Hero = ({ data }) => {
         <div className="social-links" >
           {
             socialData.map((element, index) => (
-              <a href={element.link} key={index} target="_blank" rel="noopener noreferrer">
+              <a href={element.link} key={index} target="https://www.instagram.com/zenmedya1/" rel="noopener noreferrer">
                 <Icon icon={`fa6-brands:${element.icon}`} />
               </a>
             ))
