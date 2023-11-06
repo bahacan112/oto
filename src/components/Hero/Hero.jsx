@@ -35,7 +35,7 @@ const Hero = ({ data }) => {
                  
               </div>
               <div className="info-bar" data-aos="fade-up" data-aos-duration="800" data-aos-delay="600">
-                <p><Icon icon="bi-phone" /><span>{phone}</span></p>
+                <p><Icon icon="bi-phone" /> <a href="https://wa.me/905061175807" target="_blank" rel="noopener noreferrer"><span>{phone}</span></a></p>
                 <p><Icon icon="bi-envelope" /><span>{email}</span></p>
               </div>
             </div>
