@@ -123,7 +123,7 @@ const Header = ({ data }) => {
       target="_blank"
       rel="noopener noreferrer"
     >
-    <img width="30px" height="30px" src={whatsappIconUrl} alt="WhatsApp" />   WhatsApp Mesaj
+    <img width="30px"  height="30px" src={whatsappIconUrl} alt="WhatsApp" />   WhatsApp Mesaj
 
       
     </a>
