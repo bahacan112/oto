@@ -31,12 +31,7 @@ const Hero = ({ data }) => {
               <h1 data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">{perser(title)}</h1>
               <p className="lead" data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">{perser(subTitle)}</p>
               <div className="btn-bar" data-aos="fade-up" data-aos-duration="800" data-aos-delay="500">
-               <button className="px-btn dark w-100">
-               <a href="https://wa.me/905061175807" target="_blank" rel="noopener noreferrer">
-
-                  Whatsapp iletişim için tıklayın</a>
-                  <Icon icon="bi:arrow-up-right" />
-                  </button>
+              
                  
               </div>
               <div className="info-bar" data-aos="fade-up" data-aos-duration="800" data-aos-delay="600">
