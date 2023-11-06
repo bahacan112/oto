@@ -8,7 +8,7 @@
     "subTitle": "",
     "ImgLink": "/images/home-banner.png",
     "phone": "+90 506 117 58 07",
-    "email": "info@zenmedya.com",
+    "email": "info@zenmedya.org",
     "btnText": "Her zaman iş başındayız",
     "socialData": [
       {
@@ -45,7 +45,7 @@
         },
         {
           "icon": "envelope",
-          "data": "info@zenmedya.com"
+          "data": "info@zenmedya.org"
         },
         {
           "icon": "map",
@@ -390,7 +390,7 @@
         "icon": "chat-left-dots-fill",
         "title": "İletişim",
         "text": "+90 (506) 117-5807 /",
-        "emailLink": "info@zenmedya.com"
+        "emailLink": "info@zenmedya.org"
       },
       {
         "icon": "compass",
