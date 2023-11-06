@@ -30,7 +30,7 @@
       "ImgLink": "/images/about-banner.jpg",
       "name": "ZEN MEDYA",
       "designation": "Reklamdaki Öncünüz. <span>Avrupa </span> TURKIYE",
-      "resumeCv": "/Resume.pdf"
+      "resumeCv": ""
     },
     "aboutRight": {
       "aboutText": "Zen Medya olarak, reklamcılık dünyasına adanmış bir profesyonellikle ve son 10 yıl boyunca bu alanda birçok farklı platformda deneyim kazandık. Reklam sektörünün dönüşümünü yakından takip etmek ve bu değişime ayak uydurmak bizim için büyük bir tutku haline geldi.",
@@ -69,7 +69,7 @@
   },
   "experienceData": {
     "text": "Firmamız, Dijital Reklamcılık, Maliyet Başına Tıklama (CPC), Maliyet Başına Bin Gösterim (CPM), Maliyet Başına Görüntüleme (CPV), Geleneksel Medya Planlama (TV, açıkhava, radyo, dergi, gazete), Dijital Medya Planlama, Medya Üretimi, Marka Pozisyonlandırma, İçerik Üretimi, Dijital Pazarlama Danışmanlığı ve Dijital Reklam Ajansı alanlarında uzmanlaşmıştır.",
-    "resumeCv": "/Resume.pdf",
+    "resumeCv": "",
     "experience": [
       {
         "start": "2010",
