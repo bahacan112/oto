@@ -4,7 +4,6 @@ import { Icon } from '@iconify/react';
 import { Link } from 'react-router-dom';
 import { Link as ScrollLink } from 'react-scroll';
 import { socialData } from '../../data.json';
-const whatsappIconUrl = './public/images/whatsapp-icon.png';
 const Header = ({ data }) => {
   const { logoDark, logoLight } = data;
 
@@ -122,8 +121,7 @@ const Header = ({ data }) => {
       href="https://wa.me/905061175807"
       target="_blank"
       rel="noopener noreferrer"
-    >
-    <img width="30px" height="30px" src={whatsappIconUrl} alt="WhatsApp" />   WhatsApp Mesaj
+    >  WhatsApp Mesaj
 
       
     </a>
