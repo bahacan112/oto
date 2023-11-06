@@ -13,11 +13,7 @@ const Experience = ({ data }) => {
             <div className="section-heading">
               <SectionHeading title="Tecrübemiz" subTitle="" />
               <p data-aos="fade-up" data-aos-duration="800" data-aos-delay="300">{text}</p>
-              <div className="btn-bar" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
-                <a href={resumeCv} className="px-btn dark" download>
-                  Download my resume <Icon icon="bi-download" />
-                </a>
-              </div>
+              
             </div>
           </div>
           <div className="col-lg-7 ps-xl-5">
