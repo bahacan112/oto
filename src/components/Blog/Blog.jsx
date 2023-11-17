@@ -6,7 +6,7 @@ import Modal from '../Modal/Modal';
 const Blog = ({ data }) => {
   // Modal
   const [modal, setModal] = useState(false);
-  const [tempData, setTempData] = useState([]);
+  const [tempData, getData] = useState([]);
 
 
 

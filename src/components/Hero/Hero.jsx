@@ -2,7 +2,6 @@ import PropTypes from 'prop-types';
 import { Icon } from '@iconify/react';
 import { useEffect } from 'react';
 import perser from 'html-react-parser';
-import { Link as ScrollLink } from "react-scroll";
 
 
 const Hero = ({ data }) => {
