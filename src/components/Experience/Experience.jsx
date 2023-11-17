@@ -1,10 +1,9 @@
 import PropTypes from "prop-types";
 import SectionHeading from "../SectionHeading/SectionHeading";
-import { Icon } from "@iconify/react";
 
 
 const Experience = ({ data }) => {
-  const { text, experience, resumeCv } = data;
+  const { text, experience } = data;
   return (
     <section className="section experience-section bg-g">
       <div className="container">

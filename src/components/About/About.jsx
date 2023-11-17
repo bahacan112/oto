@@ -5,7 +5,7 @@ import { Icon } from '@iconify/react';
 
 const About = ({ data }) => {
   const { aboutLeft, aboutRight } = data;
-  const { ImgLink, name, designation, resumeCv } = aboutLeft;
+  const { ImgLink, name, designation } = aboutLeft;
   const { aboutText, contactInfo, archivement, note } = aboutRight;
 
   return (

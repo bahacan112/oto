@@ -8,11 +8,7 @@ const Blog = ({ data }) => {
   const [modal, setModal] = useState(false);
   const [tempData, setTempData] = useState([]);
 
-  const getData = (imgLink, title, date, paragraphList) => {
-    let tempData = [imgLink, title, date, paragraphList];
-    setTempData(element => [1, ...tempData]);
-    setModal(true);
-  }
+
 
   const modalClose = () => {
     setModal(false);
