@@ -1,6 +1,5 @@
-// test/example.test.js
 const chai = require('chai');
-const expect = chai.expect;
+const { expect } = chai;
 
 describe('Example Test', () => {
   it('should return true', () => {

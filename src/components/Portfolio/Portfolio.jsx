@@ -13,7 +13,7 @@ const Portfolio = ({ data }) => {
   const getData = (imgLink, title, subTitle, paragraphList) => {
     console.log(imgLink, title, subTitle, paragraphList);
     let tempData = [imgLink, title, subTitle, paragraphList];
-    setTempData(_ => [1, ...tempData]);
+    setTempData(tempData => [1, ...tempData]);
     
     setModal(true);
   }
