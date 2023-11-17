@@ -26,6 +26,8 @@ jobs:
         npm run lint
       env:
         CI: true # set environment variable to run tests in CI mode
+        NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
         
     - name: Build Frontend
       run: npm run build
