@@ -12,8 +12,8 @@ const Portfolio = ({ data }) => {
 
   const getData = (imgLink, title, subTitle, paragraphList) => {
     console.log(imgLink, title, subTitle, paragraphList);
-    let tempData = [imgLink, title, subTitle, paragraphList];
-    setTempData(tempData => [1, ...tempData]);
+    let newData = [imgLink, title, subTitle, paragraphList];
+    setTempData(() => [1, ...newData]);
     
     setModal(true);
   }
