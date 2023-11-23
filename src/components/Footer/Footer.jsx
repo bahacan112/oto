@@ -14,7 +14,7 @@ const Footer = ({ data }) => {
           </div>
           <h6>{name}</h6>
         </div>
-        <p className="copyright">© {currentYear} Zen Medya Tüm Hakları Saklıdır</p>
+        <p className="copyright">        <a href="gizlilik.html">Gizlilik Politikası</a> -<a href="teslimat-iade.html">Teslimat ve İade</a> -© {currentYear} Zen Medya Tüm Hakları Saklıdır</p>
       </div>
     </footer>
   )
